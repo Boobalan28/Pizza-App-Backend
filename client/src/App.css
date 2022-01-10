@@ -1,0 +1,33 @@
+#sou{
+    background-color: rgb(23, 140, 187);
+    width: 100%;
+    padding: 10px;
+    color:white
+     !important;
+    font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+    box-shadow: 5px 5px 8px 5px #888888; 
+}
+.adminfunctions{
+    padding: 10px;
+    background-color:rgb(1, 1, 77);
+  }
+  
+  .adminfunctions li{
+    list-style-type: none !important; 
+    display: inline !important;
+    color: white !important;
+  }
+  .adminfunctions li a{
+     color: white !important;
+     padding: 20px;
+  }
+  td , th , tr{
+    text-align:center;
+  }
+  .adminhead{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }

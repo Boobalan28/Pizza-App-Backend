@@ -1,0 +1,36 @@
+#nav{
+    margin: 0px;
+    padding: 0px;
+    box-shadow: 5px 5px 8px 5px #888888;
+   }
+   .flex-container{
+     display: flex;
+   
+   }
+   .btn{
+       background-color: red !important;
+       color: white !important;
+   }
+   select{
+     box-shadow: none;
+     border-color: black;
+   }
+  #card{
+    display: grid;
+   justify-content: center;
+  }
+  #h4{
+    display: grid;
+    justify-content: center;
+  }
+  .lbtn{
+      background-color: red !important;
+      color: white !important;
+  }
+  #h5{
+    margin-right: 0px;
+    margin-bottom: 0px;
+  }
+  #menu-appbar{
+    margin-top: 45px;
+  }
